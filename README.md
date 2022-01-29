@@ -1,2 +1,2 @@
 # simplilearn-devops-repo
-This repor created by devops batch
+This repo is created by devops batch
